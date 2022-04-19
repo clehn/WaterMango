@@ -1,0 +1,22 @@
+[
+    {
+        "ID":"{fa61351d-8102-48d5-9237-2b9786c70bc3}",
+        "Name":"Sunflower",
+        "WateringState":"NotWatered"          
+    },
+    {
+        "ID":"{bg61351d-8102-48d5-9237-2b9786c70bc3}",
+        "Name":"Watermelon",
+        "WateringState":"Watering"          
+    },
+    {
+        "ID":"{aa61351d-8102-48d5-9237-2b9786c70bc3}",
+        "Name":"Peas",
+        "WateringState":"WateredReseting"          
+    },
+    {
+        "ID":"{ca61351d-8102-48d5-9237-2b9786c70bc3}",
+        "Name":"Cauliflower",
+        "WateringState":"Watered"          
+    }
+]
